@@ -18,10 +18,4 @@ The famous Boston Hosuing Dataset is dealt with various Regression algorithms. O
 
 Accuracy graphs are plotted with respective to different Algorithms.
 
-"# BostonHousingData-Regressors" 
-"# BostonHousingData-Regressors" 
-"# BostonHousingData-Regressors" 
-"# BostonHousingData-Regressors" 
-"# BostonHousingData-Regressors" 
-"# BostonHousingData-Regressors" 
-"# BostonHousingData-Regressors" 
+
